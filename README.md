@@ -1,2 +1,2 @@
-# chrome_extension
-sample chrome extension
+# sample-chrome-extension
+sample chrome extension structure
